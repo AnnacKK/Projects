@@ -1,2 +1,2 @@
-# NLP
-NlP projects
+#
+Projects, that created using non-Kaggle datasets
