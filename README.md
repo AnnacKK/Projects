@@ -1,2 +1,2 @@
 #
-Projects, that created using non-Kaggle datasets
+Projects published outside Kaggle
